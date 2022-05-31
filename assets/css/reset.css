@@ -11,6 +11,7 @@
   --texto-principal: hsla(0, 0%, 100%, 0.9);
   --texto-secundario: hsla(0, 0%, 100%, 0.6);
   --texto-escuro: hsla(0, 0%, 0%, 0.75);
+  --input: #38434F;
   --primario: #70b5f9;
   --positivo: #3ec786;
 }
