@@ -1,5 +1,6 @@
 @import url('./reset.css');
 @import url('./secao-informacoes-perfil.css');
+@import url('./navbar.css');
 
 body{
   background-color: var(--fundo-escuro);
