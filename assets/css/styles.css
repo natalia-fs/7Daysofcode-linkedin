@@ -3,6 +3,7 @@
 @import url('./navbar.css');
 @import url('./destaques.css');
 @import url('./atividades.css');
+@import url('./sobre.css');
 
 body{
   background-color: var(--fundo-escuro);
