@@ -2,6 +2,7 @@
 @import url('./secao-informacoes-perfil.css');
 @import url('./navbar.css');
 @import url('./destaques.css');
+@import url('./atividades.css');
 
 body{
   background-color: var(--fundo-escuro);
