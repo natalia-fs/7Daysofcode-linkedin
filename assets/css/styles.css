@@ -4,6 +4,7 @@
 @import url('./destaques.css');
 @import url('./atividades.css');
 @import url('./sobre.css');
+@import url('./experiencias.css');
 
 body{
   background-color: var(--fundo-escuro);
