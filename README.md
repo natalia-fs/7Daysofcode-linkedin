@@ -10,7 +10,7 @@ Recriando página de perfil do Linkedin usando apenas com HTML e CSS
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css-linkedin
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/natalia-fs/7Daysofcode-linkedin/blob/main/preview.png?raw=true)
+![](https://github.com/natalia-fs/7Daysofcode-linkedin/blob/main/preview.png?raw=true#vitrinedev)
 
 ## Detalhes do projeto
 
